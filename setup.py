@@ -4,7 +4,7 @@ try:
 except ImportError:
     from distutils.core import setup
 
-setup(name='bitcoin',
+setup(name='pybitcointools',
       version='1.0.0a1',
       description='Python Bitcoin Tools',
       author='Vitalik Buterin',
